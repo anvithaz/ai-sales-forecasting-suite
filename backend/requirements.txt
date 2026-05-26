@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
+pydantic
+pydantic[email]
+pandas
+openpyxl
+openai
+resend
+statsmodels
+scipy
